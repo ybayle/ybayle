@@ -7,7 +7,7 @@
 - Playing music for more than 20 years 🎸
 - <a href="https://ffessm.fr/plongeur-niveau-2">Level 2 FFESSM</a> Diver 🤿
 - More info about me on <a href="https://yannbayle.fr/">yannbayle.fr</a> and <a href="https://www.linkedin.com/in/yannbayle/">linkedin.com/in/yannbayle</a>
-- I'm the CTO & co-founder of Reef Pulse, a company for the Passive Acoustic Monitoring (PAM) and restoration of coral reefs around the world. More info on:
+- I'm the CTO & co-founder of Reef Pulse, a company for the Passive Acoustic Monitoring (PAM) and restoration of coral reefs around the world. More info on <a href="https://reef-pulse.com/en/index.php">reef-pulse.com</a> and:
 
 <div id="badges">
   <a href="https://www.linkedin.com/company/reef-pulse/">
