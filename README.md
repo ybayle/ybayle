@@ -37,4 +37,5 @@ Do you need help/advices/consulting/development in AI/DL/ML/MLOps applied to aud
 - 1000 € / day
 - 3000 € / week
 - 10000 € / month
+
 The money will be invested in the R&D department of my company Reef Pulse to help restore coral reefs around the world.
